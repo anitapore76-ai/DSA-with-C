@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+/*#include<bits/stdc++.h>
 using namespace std;
 void rotatearray(vector<int> &arr,int n){
 int temp;
